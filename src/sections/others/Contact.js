@@ -39,7 +39,7 @@ const Contact = ({ hero = true, bg = "dark", ...rest }) => {
                 <div>
                   <Text color="light">Email me at</Text>
 
-                  <a href="mailto:hello@folio.com" className="font-weight-bold">
+                  <a href="mailto:lethalkale@gmail.com" className="font-weight-bold">
                     <Span color="primary">lethalkale@gmail.com</Span>
                   </a>
                 </div>
